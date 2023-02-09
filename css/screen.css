@@ -1,0 +1,15 @@
+fieldset {
+	width: 100%;
+}
+div {
+	text-align: center;
+}
+
+@media screen and (min-width: 480px) {
+  form {
+    width: 100%;
+  }
+  fieldset {
+    width: 60%;
+  }
+}
